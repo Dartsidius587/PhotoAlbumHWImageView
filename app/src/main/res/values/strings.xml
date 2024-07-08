@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoAlbumHWImageView</string>
+    <string name="textTitle">Вас приветствует альбом фото красивой природы</string>
+    <string name="startButton">Давате начнём смотреть</string>
+    <string name="nextPhoto">Следующее фото</string>
+    <string name="exitMenu">Exit</string>
+</resources>
